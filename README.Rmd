@@ -1,27 +1,20 @@
----
-title: "Lab 2: Introduction to RStudio"
-author: "___"
-date: "`r format(Sys.Date())`"
-output: github_document
----
-
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ____ WITH YOUR OWN TEXT
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 ## Lab objectives
 
 The objectives of this lab are:
-
-- ___
-- ___
-
+- Use the console and source windows in RStudio
+- Write and run code in an R script
+- Document your R code with comments
+- Transfer code from an R script to an R Markdown document
+- Craft a narrative combining text explanation, code, and graphs
 ## Repository contents
 
 The repository contains the following scripts:
 
 - [calculator.R](calculator.R)
-- [calculator.Rmd](calculator.Rmd)
+- [Lab 2 Report](assignment.md)
 
 ## Instructions for knitting
 
@@ -38,10 +31,4 @@ Here is a list of resources for helping you write R Markdown documents:
 - In the Go to the **Help** menu and select **Markdown Quick Reference**
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/) on the Markdown Guide website
 
-## Session Info
 
-Here is my session information:
-
-```{r}
-sessioninfo::session_info(c("tidyverse"))
-```
