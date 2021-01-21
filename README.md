@@ -1,13 +1,21 @@
 Lab 2: Introduction to RStudio
 ================
+<<<<<<< HEAD
 Connor Hayes
 2021-01-19
+=======
+\_\_\_
+2021-01-20
+
+> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE \_\_\_\_ WITH YOUR OWN TEXT
+>>>>>>> 98cce924a2bde059c06ff8347c870de2e6eda865
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at
 MSUM.
 
 ## Lab objectives
 
+<<<<<<< HEAD
 The objectives of this lab are: 
 - Use the console and source windows in
 RStudio 
@@ -22,6 +30,22 @@ The repository contains the following scripts:
 
   - [calculator.R](calculator.R)
   - [calculator.Rmd](calculator.Rmd)
+=======
+The objectives of this lab are:
+
+-   Use the console and source windows in RStudio
+-   Write and run code in an R script
+-   Document your R code with comments
+-   Transfer code from an R script to an R Markdown document
+-   Craft a narrative combining text explanation, code, and graphs
+
+## Repository contents
+
+The repository contains the following scripts:
+
+-   [calculator.R](calculator.R)
+-   [calculator.Rmd](calculator.Rmd)
+>>>>>>> 98cce924a2bde059c06ff8347c870de2e6eda865
 
 ## Instructions for knitting
 
@@ -40,9 +64,15 @@ markdown syntax and you can embed code chunks.
 
 Here is a list of resources for helping you write R Markdown documents:
 
+<<<<<<< HEAD
   - In the Go to the **Help** menu and select **Markdown Quick
     Reference**
   - [Basic Syntax](https://www.markdownguide.org/basic-syntax/) on the
+=======
+-   In the Go to the **Help** menu and select **Markdown Quick
+    Reference**
+-   [Basic Syntax](https://www.markdownguide.org/basic-syntax/) on the
+>>>>>>> 98cce924a2bde059c06ff8347c870de2e6eda865
     Markdown Guide website
 
 ## Session Info
@@ -63,7 +93,11 @@ sessioninfo::session_info(c("tidyverse"))
     ##  collate  English_United States.1252  
     ##  ctype    English_United States.1252  
     ##  tz       America/Chicago             
+<<<<<<< HEAD
     ##  date     2021-01-19                  
+=======
+    ##  date     2021-01-20                  
+>>>>>>> 98cce924a2bde059c06ff8347c870de2e6eda865
     ## 
     ## - Packages -------------------------------------------------------------------
     ##  package      * version  date       lib source        
